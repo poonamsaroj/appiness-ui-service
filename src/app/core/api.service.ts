@@ -22,7 +22,6 @@ export class ApiService {
 
   /** GET GITHUB USERS from the server */
   getList(): Observable<GitHubUserList[]> {
-    debugger
     return this.http.get<GitHubUserList[]>(this.url)
   }
 

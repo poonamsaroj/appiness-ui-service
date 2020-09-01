@@ -1,7 +1,6 @@
 {
-  "name": "material-dashboard-angular",
-  "version": "2.4.0",
-  "license": "MIT",
+  "name": "appiness-ui-service",
+  "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
